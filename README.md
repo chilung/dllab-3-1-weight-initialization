@@ -1,1 +1,1 @@
-# dllab-3-transfer-learning
+# dllab-3-weight-initialization
