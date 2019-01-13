@@ -1,1 +1,1 @@
-# dllab-3-weight-initialization
+# dllab-3-1-weight-initialization
